@@ -1,6 +1,5 @@
 name: "Test attribute mutualization"
-on:
-  push:
+on: push
 jobs:
     runs-on: ubuntu-latest
     steps:
